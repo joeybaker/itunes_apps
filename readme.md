@@ -12,6 +12,9 @@ These are just some quick applescripts I've put together to take some of the pai
 I dunno, whatever… if you like it, you're welcome to it. Keep my name associated with it please. (as long as you're not using these to take over the world or anything)
 
 ### Changelog
+### v.2
+* made the show info script much more useful with lots more data and album artwork.
+* the info script now has some failure checks (it won't crash if growl isn't running)
 
 #### v.1
 * init
